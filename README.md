@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello there! I'm Bivia Therese Manoj
 
-<!--
-**Bivia06/Bivia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+🎯 Minor in Artificial Intelligence  
+💻 Passionate about Software, IT, AI, and Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Areas of Interest
+- Software Engineering  
+- Artificial Intelligence & ML  
+- Cybersecurity & Privacy  
+- Information Technology Systems  
+- Innovation in Tech and ECE  
+
+---
+
+📫 Connect with me:https://linkedin.com/in/bivia-therese-manoj  
+📍 Based in India  
+📧 biviatherese@gmail.com 
+
+> 🌱 Always exploring. Always building. Always learning.
